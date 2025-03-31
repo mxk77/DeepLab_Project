@@ -1,0 +1,8 @@
+ckpt/
+exp_data/
+Theory/
+data_h5/
+*.docx
+*.h5
+*.pdf
+*.pptx
