@@ -8,3 +8,4 @@ data_h5/
 *.pptx
 slices/
 tmp/
+metrics/
