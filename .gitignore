@@ -9,3 +9,5 @@ data_h5/
 slices/
 tmp/
 metrics/
+exp_result*/
+*.rar
