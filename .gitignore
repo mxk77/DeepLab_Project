@@ -10,3 +10,5 @@ slices/
 tmp/
 metrics/
 *.rar
+exp*
+*.doc
